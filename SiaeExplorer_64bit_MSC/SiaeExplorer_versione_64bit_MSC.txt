@@ -2,7 +2,7 @@ $Versione	2.5.2
 $Compressione	zip
 $Checksum	md5sum
 $Crypt	true
-$MsgGenerico	Questa versione sistema diversi bugs della precedente.
+$MsgGenerico	Questa versione aggiunge/sistema alcune funzioni
 $Obbligatorio	false
 #
 IGQs5+h/pwaCZYkAb5O64ehiqSkORUzInIUk2tAUvAo0GiVukbsDO/WJgTgC5tjpohgM3gTHZKUzNq7YgLaWmLGVWNr+Zs+H
