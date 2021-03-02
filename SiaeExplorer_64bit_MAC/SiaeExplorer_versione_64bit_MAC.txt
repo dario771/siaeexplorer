@@ -1,4 +1,4 @@
-$Versione	2.5.2
+$Versione	2.6.0
 $Compressione	xz
 $Checksum	md5sum
 $Crypt	true
