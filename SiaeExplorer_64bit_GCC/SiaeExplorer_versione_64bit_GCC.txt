@@ -5,6 +5,8 @@ $Crypt	true
 $MsgGenerico	Questa versione sistema diversi bugs della precedente e aggiunge nuove funzionalita.
 $Obbligatorio	false
 #
+# COMMENTO DI PROVA
+#
 ml1rETx4LGRnWIUH1zdoJTmFhuedk7dXTbb/IrOIgPjnZkZrPNnwzOQ0mGrvL2YBtzBE/m7GkyE=
 Q+WrlvPKs4vjZC132yUA5MmqGrF0TjWr2eBCR1WLcsbnZkZrPNnwzKJ71iiP3OPQ2GTiKFWbTQgU8IWTl6Kdng==
 1DEIOetIKAN4+6OHufbPl0IHAWS8ITdDW2aEqK5NCGuvCpZQ8/Nuy+Cec0opl5rWnsdf0KSLkkMs1DCL7aN6fA==
